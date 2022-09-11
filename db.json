@@ -1,0 +1,14 @@
+{
+  "posts": [
+    {
+      "title": "angular",
+      "info": "angular",
+      "userId": 8,
+      "id": 1
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
